@@ -1,12 +1,12 @@
 movieId,title,genres
-1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+1,BoyToy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 2,Jumanji (1995),Adventure|Children|Fantasy
-3,Grumpier Old Men (1995),Comedy|Romance
+3,Grumpy Old Men (1995),Comedy|Romance
 4,Waiting to Exhale (1995),Comedy|Drama|Romance
 5,Father of the Bride Part II (1995),Comedy
 6,Heat (1995),Action|Crime|Thriller
 7,Sabrina (1995),Comedy|Romance
-8,Tom and Huck (1995),Adventure|Children
+8,Tom and Jerry (1995),Adventure|Children
 9,Sudden Death (1995),Action
 10,GoldenEye (1995),Action|Adventure|Thriller
 11,"American President, The (1995)",Comedy|Drama|Romance
@@ -14,12 +14,12 @@ movieId,title,genres
 13,Balto (1995),Adventure|Animation|Children
 14,Nixon (1995),Drama
 15,Cutthroat Island (1995),Action|Adventure|Romance
-16,Casino (1995),Crime|Drama
+16,Casino royale(1995),Crime|Drama
 17,Sense and Sensibility (1995),Drama|Romance
 18,Four Rooms (1995),Comedy
 19,Ace Ventura: When Nature Calls (1995),Comedy
 20,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
-21,Get Shorty (1995),Comedy|Crime|Thriller
+21,Get Short (1995),Comedy|Crime|Thriller
 22,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
 23,Assassins (1995),Action|Crime|Thriller
 24,Powder (1995),Drama|Sci-Fi
@@ -9713,31 +9713,8 @@ movieId,title,genres
 187717,Won't You Be My Neighbor? (2018),Documentary
 188189,Sorry to Bother You (2018),Comedy|Fantasy|Sci-Fi
 188301,Ant-Man and the Wasp (2018),Action|Adventure|Comedy|Fantasy|Sci-Fi
-188675,Dogman (2018),Crime|Drama
-188751,Mamma Mia: Here We Go Again! (2018),Comedy|Romance
-188797,Tag (2018),Comedy
-188833,The Man Who Killed Don Quixote (2018),Adventure|Comedy|Fantasy
-189043,Boundaries (2018),Comedy|Drama
-189111,Spiral (2018),Documentary
-189333,Mission: Impossible - Fallout (2018),Action|Adventure|Thriller
-189381,SuperFly (2018),Action|Crime|Thriller
-189547,Iron Soldier (2010),Action|Sci-Fi
-189713,BlacKkKlansman (2018),Comedy|Crime|Drama
-190183,The Darkest Minds (2018),Sci-Fi|Thriller
-190207,Tilt (2011),Drama|Romance
-190209,Jeff Ross Roasts the Border (2017),Comedy
-190213,John From (2015),Drama
-190215,Liquid Truth (2017),Drama
-190219,Bunny (1998),Animation
-190221,Hommage à Zgougou (et salut à Sabine Mamou) (2002),Documentary
-191005,Gintama (2017),Action|Adventure|Comedy|Sci-Fi
-193565,Gintama: The Movie (2010),Action|Animation|Comedy|Sci-Fi
-193567,anohana: The Flower We Saw That Day - The Movie (2013),Animation|Drama
-193571,Silver Spoon (2014),Comedy|Drama
-193573,Love Live! The School Idol Movie (2015),Animation
-193579,Jon Stewart Has Left the Building (2015),Documentary
-193581,Black Butler: Book of the Atlantic (2017),Action|Animation|Comedy|Fantasy
-193583,No Game No Life: Zero (2017),Animation|Comedy|Fantasy
-193585,Flint (2017),Drama
-193587,Bungo Stray Dogs: Dead Apple (2018),Action|Animation
-193609,Andrew Dice Clay: Dice Rules (1991),Comedy
+64917,13th (2016),Documentary
+165075,London Town (2016),Drama
+165101,Inferno (2016),Mystery|Thriller
+165103,Keeping Up with the Joneses (2016),Comedy
+165139,Wild Oats (2016),Comed
